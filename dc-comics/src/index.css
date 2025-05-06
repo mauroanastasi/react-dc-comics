@@ -52,7 +52,11 @@ ul li {
   color: white;
   font-size: 30px;
   text-align: center;
+  display: flex;
+
 }
+
+.contentFooterUp img {}
 
 .contentFooterCentral {
   background-image: url(../src/assets/footer-bg.jpg);
