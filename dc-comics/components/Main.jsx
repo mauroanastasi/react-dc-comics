@@ -1,7 +1,9 @@
+import ListComics from "./ListComics"
+
 const Main = () => {
     return (
         <div className="contentMain">
-            Content goes here
+            <ListComics />
         </div>
     )
 }

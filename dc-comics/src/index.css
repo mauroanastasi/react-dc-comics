@@ -56,7 +56,10 @@ ul li {
 
 }
 
-.contentFooterUp img {}
+.contentFooterUp img {
+  width: auto;
+  height: 50px;
+}
 
 .contentFooterCentral {
   background-image: url(../src/assets/footer-bg.jpg);
