@@ -24,7 +24,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="contentFooterCentral">
-
+                <div className="logoFooterSfondo"></div>
             </div>
             <div className="contentFooterDown">
 
