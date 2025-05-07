@@ -2,25 +2,25 @@ const Footer = () => {
     return (
         <>
             <div className="contentFooterUp">
-                <div>
+                <div className="contentIcone">
                     <img src="/buy-comics-digital-comics.png" alt="" />
-                    <span>digital comics</span>
+                    <div>digital comics</div>
                 </div>
-                <div>
+                <div className="contentIcone">
                     <img src="/buy-comics-merchandise.png" alt="" />
-                    <span>dc merchandise</span>
+                    <div>dc merchandise</div>
                 </div>
-                <div>
+                <div className="contentIcone">
                     <img src="/buy-comics-shop-locator.png" alt="" />
-                    <span>subscription</span>
+                    <div>subscription</div>
                 </div>
-                <div>
+                <div className="contentIcone">
                     <img src="/buy-comics-subscriptions.png" alt="" />
-                    <span>comic shop locator</span>
+                    <div>comic shop locator</div>
                 </div>
-                <div>
+                <div className="contentIcone">
                     <img src="/buy-dc-power-visa.svg" alt="cartaCredito" />
-                    <span>dc powervisa</span>
+                    <div>dc powervisa</div>
                 </div>
             </div>
             <div className="contentFooterCentral">

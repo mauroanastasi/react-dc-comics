@@ -74,8 +74,15 @@ ul li {
 }
 
 .contentFooterUp img {
+  margin-top: 1rem;
   width: auto;
   height: 50px;
+  display: block;
+  padding-left: 100px;
+}
+
+.contentIcone {
+  width: 300px;
 }
 
 .contentFooterCentral {
