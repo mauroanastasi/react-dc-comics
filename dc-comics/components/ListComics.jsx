@@ -158,8 +158,10 @@ const ListComics = () => {
   ];
   return (
     <div>
-      Lista fumetti
-      <ComicsCard />
+      <h2>Lista fumetti</h2>
+      <div className='comics-list'>
+        <ComicsCard />
+      </div>
     </div>
   );
 }

@@ -45,20 +45,20 @@ ul li {
   text-align: center;
 }
 
-.card-container {
+.comics-list {
   display: flex;
+  justify-content: space-between;
   flex-wrap: wrap;
-  margin-top: 2rem;
 }
 
-.comics-card {
-  flex-basis: 16%;
-  padding: 20px;
-  background-color: #000000;
+.comic-card {
+  width: 150px;
+  height: auto;
+  margin: 20px;
 }
 
-.comics-card img {
-  display: block;
+.comic-card img {
+  max-width: 100%;
 }
 
 /* FOOTER */
